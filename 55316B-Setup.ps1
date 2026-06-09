@@ -60,8 +60,8 @@ $ScriptVersion = 'v3.1 (2-DB + TrustCert-safe)'
 Write-Host ("[databases.ps1 {0}] script loaded from: {1}" -f $ScriptVersion, $PSCommandPath) -ForegroundColor DarkGreen
 
 $Databases = @(
-    [pscustomobject]@{ ID=1; Name='AdventureWorks2025'; FileName='AdventureWorks2025.bak'; Url='https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak' }
-    [pscustomobject]@{ ID=2; Name='AdventureWorksDW2025'; FileName='AdventureWorksDW2025.bak'; Url='https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak' }
+    [pscustomobject]@{ ID=1; Name='AdventureWorks2025'; FileName='AdventureWorks2025.bak'; Url='https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2025.bak' }
+    [pscustomobject]@{ ID=2; Name='AdventureWorksDW2025'; FileName='AdventureWorksDW2025.bak'; Url='https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2025.bak' }
 )
 
 if (-not (Test-Path -Path $BasePath)) {
