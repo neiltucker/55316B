@@ -11,7 +11,7 @@
 
 This five-day instructor-led course provides students who manage SQL Server 2025 and Azure SQL databases with the knowledge and skills needed to administer a SQL Server 2025 database infrastructure. The material is also useful to individuals who develop applications that deliver content from SQL Server databases. In addition to SQL Server 2025 and Azure SQL Database, students will learn about SQL Server Management Studio 22 (SSMS 22).
 
-> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore SQL Server infrastructure administration, investigate authentication models and data encryption methods, and review PowerShell automation techniques.
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore SQL Server infrastructure administration, investigate authentication models and data encryption methods, review PowerShell automation techniques, and all other course topics.
 
 ---
 
